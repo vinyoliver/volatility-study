@@ -1,0 +1,178 @@
+Year: 2017
+Longest consecutive positive days: 6
+Total variation for longest consecutive positive days: 5.11
+Longest consecutive negative days: 6
+Total variation for longest consecutive negative days: -3.2699999999999996
+
+Greatest recovery: 5.11
+Greatest drawdown: -10.35
+
+Total Trading days: 246
+>= 3: 3 (1.22%)
+<= -3: 2 (0.81%)
+
+>= 2: 9 (3.66%)
+<= -2: 9 (3.66%)
+
+>= 1.5: 14 (5.69%)
+<= -1.5: 8 (3.25%)
+
+>= 1: 24 (9.76%)
+<= -1: 15 (6.10%)
+
+
+============================
+Year: 2018
+Longest consecutive positive days: 9
+Total variation for longest consecutive positive days: 8.120000000000001
+Longest consecutive negative days: 6
+Total variation for longest consecutive negative days: -5.28
+
+Greatest recovery: 8.120000000000001
+Greatest drawdown: -9.42
+
+Total Trading days: 245
+>= 3: 6 (2.45%)
+<= -3: 2 (0.82%)
+
+>= 2: 11 (4.49%)
+<= -2: 14 (5.71%)
+
+>= 1.5: 20 (8.16%)
+<= -1.5: 14 (5.71%)
+
+>= 1: 23 (9.39%)
+<= -1: 21 (8.57%)
+
+
+============================
+Year: 2019
+Longest consecutive positive days: 6
+Total variation for longest consecutive positive days: 4.640000000000001
+Longest consecutive negative days: 4
+Total variation for longest consecutive negative days: -4.27
+
+Greatest recovery: 5.3500000000000005
+Greatest drawdown: -6.5
+
+Total Trading days: 248
+>= 3: 2 (0.81%)
+<= -3: 2 (0.81%)
+
+>= 2: 6 (2.42%)
+<= -2: 10 (4.03%)
+
+>= 1.5: 15 (6.05%)
+<= -1.5: 6 (2.42%)
+
+>= 1: 23 (9.27%)
+<= -1: 17 (6.85%)
+
+
+============================
+Year: 2020
+Longest consecutive positive days: 7
+Total variation for longest consecutive positive days: 11.739999999999998
+Longest consecutive negative days: 6
+Total variation for longest consecutive negative days: -2.62
+
+Greatest recovery: 20.62
+Greatest drawdown: -21.98
+
+Total Trading days: 249
+>= 3: 13 (5.22%)
+<= -3: 16 (6.43%)
+
+>= 2: 26 (10.44%)
+<= -2: 10 (4.02%)
+
+>= 1.5: 14 (5.62%)
+<= -1.5: 18 (7.23%)
+
+>= 1: 30 (12.05%)
+<= -1: 26 (10.44%)
+
+
+============================
+Year: 2021
+Longest consecutive positive days: 8
+Total variation for longest consecutive positive days: 6.049999999999999
+Longest consecutive negative days: 6
+Total variation for longest consecutive negative days: -4.88
+
+Greatest recovery: 7.15
+Greatest drawdown: -7.32
+
+Total Trading days: 247
+>= 3: 3 (1.21%)
+<= -3: 7 (2.83%)
+
+>= 2: 10 (4.05%)
+<= -2: 12 (4.86%)
+
+>= 1.5: 17 (6.88%)
+<= -1.5: 9 (3.64%)
+
+>= 1: 23 (9.31%)
+<= -1: 27 (10.93%)
+
+
+============================
+Year: 2022
+Longest consecutive positive days: 7
+Total variation for longest consecutive positive days: 7.869999999999999
+Longest consecutive negative days: 8
+Total variation for longest consecutive negative days: -9.67
+
+Greatest recovery: 8.14
+Greatest drawdown: -9.67
+
+Total Trading days: 250
+>= 3: 2 (0.80%)
+<= -3: 4 (1.60%)
+
+>= 2: 18 (7.20%)
+<= -2: 20 (8.00%)
+
+>= 1.5: 15 (6.00%)
+<= -1.5: 10 (4.00%)
+
+>= 1: 27 (10.80%)
+<= -1: 15 (6.00%)
+
+
+============================
+============================
+===========ALL DATA=========
+============================
+Longest consecutive positive days: 11
+Total variation for longest consecutive positive days: 9.04
+Longest consecutive negative days: 8
+Total variation for longest consecutive negative days: -9.67
+
+Greatest recovery: 20.62
+Greatest drawdown: -21.98
+
+Total Trading days: 1485
+>= 3: 29 (1.95%)
+<= -3: 33 (2.22%)
+
+>= 2: 80 (5.39%)
+<= -2: 75 (5.05%)
+
+>= 1.5: 95 (6.40%)
+<= -1.5: 65 (4.38%)
+
+>= 1: 150 (10.10%)
+<= -1: 121 (8.15%)
+
+
+============================
+============================
+===========AVERAGES=========
+============================
+AVG Consecutive up days:  7.20
+AVG Consecutive down days:  6.00
+
+AVG greatest UP movement:  6.77
+AVG greatest DOWN movement:  -8.65
