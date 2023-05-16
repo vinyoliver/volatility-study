@@ -67,7 +67,6 @@ fs.createReadStream("bova11.csv")
           sumNeg += variation;
           if (negSeq === maxNegSeq) {
             sumNegSequenc = sumNeg;
-            // console.log("DATE >>> ", filteredData[i].date)
           }
           if (sumNeg < greatestDrawdown) {
             greatestDrawdown = sumNeg;
@@ -130,11 +129,11 @@ fs.createReadStream("bova11.csv")
     // calculate the relevant information for each year and log it to the console
     const dataResult = [];
     for (let i = 0; i < years.length; i++) {
-      const stats = calculateStatsForYear(years[i]); 
-      if(stats.year !== 2020){
+      if(years[i] !== 2020){
+        const stats = calculateStatsForYear(years[i]); 
         dataResult.push(stats);
+        printData(stats);
       }
-      printData(stats);
     }
 
 
@@ -154,6 +153,7 @@ function printData(stats) {
   stats.year && console.log(`Year: ${stats.year}`);
   console.log(`Longest consecutive positive days: ${stats.maxPosSeq}`);
   console.log(`Total variation for longest consecutive positive days: ${stats.sumPos}`);
+  console.log("");
   console.log(`Longest consecutive negative days: ${stats.maxNegSeq}`);
   console.log(`Total variation for longest consecutive negative days: ${stats.sumNeg}`);
   console.log('')
@@ -191,10 +191,10 @@ function calculateAverages(data) {
     averages[field] = (sum / numObjects).toFixed(2);
   });
 
-  console.log("AVG Consecutive up days: ", averages.maxPosSeq);
-  console.log("AVG Consecutive down days: ", averages.maxNegSeq);
+  console.log("AVG Consecutive UP days: ", averages.maxPosSeq);
+  console.log("AVG Consecutive DOWN days: ", averages.maxNegSeq);
   console.log()
-  console.log("AVG greatest UP movement: ", averages.greatestRecovery);
-  console.log("AVG greatest DOWN movement: ", averages.greatestDrawdown);
+  console.log(`AVG greatest UP movement: ${averages.greatestRecovery}%`);
+  console.log(`AVG greatest DOWN movement: ${averages.greatestDrawdown}%`);
 }
 

@@ -1,6 +1,7 @@
 Year: 2017
 Longest consecutive positive days: 6
 Total variation for longest consecutive positive days: 5.11
+
 Longest consecutive negative days: 6
 Total variation for longest consecutive negative days: -3.2699999999999996
 
@@ -25,6 +26,7 @@ Total Trading days: 246
 Year: 2018
 Longest consecutive positive days: 9
 Total variation for longest consecutive positive days: 8.120000000000001
+
 Longest consecutive negative days: 6
 Total variation for longest consecutive negative days: -5.28
 
@@ -49,6 +51,7 @@ Total Trading days: 245
 Year: 2019
 Longest consecutive positive days: 6
 Total variation for longest consecutive positive days: 4.640000000000001
+
 Longest consecutive negative days: 4
 Total variation for longest consecutive negative days: -4.27
 
@@ -70,33 +73,10 @@ Total Trading days: 248
 
 
 ============================
-Year: 2020
-Longest consecutive positive days: 7
-Total variation for longest consecutive positive days: 11.739999999999998
-Longest consecutive negative days: 6
-Total variation for longest consecutive negative days: -2.62
-
-Greatest recovery: 20.62
-Greatest drawdown: -21.98
-
-Total Trading days: 249
->= 3: 13 (5.22%)
-<= -3: 16 (6.43%)
-
->= 2: 26 (10.44%)
-<= -2: 10 (4.02%)
-
->= 1.5: 14 (5.62%)
-<= -1.5: 18 (7.23%)
-
->= 1: 30 (12.05%)
-<= -1: 26 (10.44%)
-
-
-============================
 Year: 2021
 Longest consecutive positive days: 8
 Total variation for longest consecutive positive days: 6.049999999999999
+
 Longest consecutive negative days: 6
 Total variation for longest consecutive negative days: -4.88
 
@@ -121,6 +101,7 @@ Total Trading days: 247
 Year: 2022
 Longest consecutive positive days: 7
 Total variation for longest consecutive positive days: 7.869999999999999
+
 Longest consecutive negative days: 8
 Total variation for longest consecutive negative days: -9.67
 
@@ -147,6 +128,7 @@ Total Trading days: 250
 ============================
 Longest consecutive positive days: 11
 Total variation for longest consecutive positive days: 9.04
+
 Longest consecutive negative days: 8
 Total variation for longest consecutive negative days: -9.67
 
@@ -171,8 +153,8 @@ Total Trading days: 1485
 ============================
 ===========AVERAGES=========
 ============================
-AVG Consecutive up days:  7.20
-AVG Consecutive down days:  6.00
+AVG Consecutive UP days:  7.20
+AVG Consecutive DOWN days:  6.00
 
 AVG greatest UP movement:  6.77
 AVG greatest DOWN movement:  -8.65
